@@ -12,7 +12,7 @@ This project is for ordering a T Shirt from a web application
 3. Right click 
 4. Run
 
-##### From JUnit
+##### From Eclipse
 1. Go to TestRunner class.
 2. Edit tags.
 3. Right click 
