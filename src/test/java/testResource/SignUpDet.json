@@ -1,0 +1,15 @@
+{
+  "email" : "xyz1123345@gmail.com",
+  "firstName" : "John",
+  "lastName" : "Doe",
+  "password" : "1234asdf",
+  "day" : "22",
+  "month" : "1",
+  "year" : "1996",
+  "add1" : "abc12",
+  "city" : "Chicago",
+  "state" : "Illinois",
+  "zip" : "25000",
+  "mob" : "9876543210",
+  "changeName" : "Jack"
+}
