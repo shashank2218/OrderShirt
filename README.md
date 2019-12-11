@@ -6,17 +6,17 @@ This project is for ordering a T Shirt from a web application
 2. Maven build tool
 
 ### Steps to run test scenarios
-####### From Intellij
+##### From Intellij
 1. Go to TestRunner class.
 2. Edit tags.
 3. Right click 
 4. Run
 
-####### From JUnit
+##### From JUnit
 1. Go to TestRunner class.
 2. Edit tags.
 3. Right click 
 4. Run as JUnit
 
-####### Using terminal
+##### Using terminal
 1. Write command "mvn test"
